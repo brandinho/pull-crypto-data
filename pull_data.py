@@ -10,7 +10,7 @@ import cryptowatch as cw
 import pandas as pd
 import numpy as np
 
-save_location = "Data/"
+save_location = "data/"
 ticker_exchange_mapping = {
     "btcusd": "kraken",
     "ethusd": "kraken",
